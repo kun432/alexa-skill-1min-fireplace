@@ -1,1 +1,1 @@
-# alexa-skill-1min-candle
+# alexa-skill-1min-fireplace
